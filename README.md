@@ -1,1 +1,1 @@
-Lição feito em casa em Java, utilizando NetBeans
+Lição feita em casa, em Java utilizando NetBeans
